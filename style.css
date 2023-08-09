@@ -49,8 +49,9 @@ body{
 }
 
 .responsive {
-    display: block;
       height: auto;
+      width: 100%;
+  max-width: 400px;
 }
 
 svg{

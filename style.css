@@ -48,6 +48,11 @@ body{
    margin: auto;
 }
 
+.responsive {
+    display: block;
+      height: auto;
+}
+
 svg{
     display: block;
    margin: auto;
